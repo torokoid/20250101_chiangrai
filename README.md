@@ -154,6 +154,10 @@ p.note { display: none; }
 <h2><span class="yellow">北緯20度付近の星空です<br>日本では地平線ギリギリになってしまう「カノープス」(赤矢印)が見えています<br>全天で２番目に明るい星で中国ではこれをみると長生きできると言われる「南極老人星」</span></h2>
 <a href="20250101_001.JPG" target="_blank"><img src="20250101_001.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">ちょっとマニアックなのでカノープスの説明リンク↓<br>
+<a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8E%E3%83%BC%E3%83%97%E3%82%B9" target="_blank">カノープスの説明</a></span></h2>
+
+
 <h2><span class="yellow">お正月の日暮には細い月が見えていました</span></h2>
 <a href="20250101_002.JPG" target="_blank"><img src="20250101_002.JPG" alt="サンプル画像" width="900" /></a>
 
