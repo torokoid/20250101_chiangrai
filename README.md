@@ -71,7 +71,7 @@ left:0;
 z-index:-1;
 width:100%;
 height:100vh;
-background:url(https://torokoid.github.io/20250101_chiangrai/20250101_004.png) center/cover no-repeat;
+background:url(https://torokoid.github.io/20250101_chiangrai/20250101_003.JPG) center/cover no-repeat;
 -webkit-background-size:cover;/*Android4*/
 }
 
@@ -134,8 +134,14 @@ p.note { display: none; }
 
 <h2><span class="yellow">タイの年末年始は、お空が賑やかです</span></h2>
 
+<a href="20250101_001.png" target="_blank"><img src="20250101_001.png" alt="サンプル画像" width="900" /></a>
+<a href="20250101_002.png" target="_blank"><img src="20250101_002.png" alt="サンプル画像" width="900" /></a>
+<a href="20250101_003.png" target="_blank"><img src="20250101_003.png" alt="サンプル画像" width="900" /></a>
+<a href="20250101_004.png" target="_blank"><img src="20250101_004.png" alt="サンプル画像" width="900" /></a>
 
-
+<a href="20250101_001.JPG" target="_blank"><img src="20250101_001.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250101_002.JPG" target="_blank"><img src="20250101_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20250101_003.JPG" target="_blank"><img src="20250101_003.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
 <h2><span class="yellow">
