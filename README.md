@@ -132,15 +132,32 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">タイの年末年始は、お空が賑やかです</span></h2>
+<h2><span class="yellow">タイの年末年始は、お空が賑やかです<br>ろうそくの火であげる紙気球がオレンジ色の点でふわふわしてます</span></h2>
 
 <a href="20250101_001.jpeg" target="_blank"><img src="20250101_001.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250101_002.jpeg" target="_blank"><img src="20250101_002.jpeg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">紙気球動画</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9AQw2TSJ4YY?si=b51aVJ8T-1WEUgAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">大晦日22:00過ぎくらいからは花火がそこらじゅうで上がり始めます</span></h2>
 <a href="20250101_003.jpeg" target="_blank"><img src="20250101_003.jpeg" alt="サンプル画像" width="900" /></a>
 <a href="20250101_004.jpeg" target="_blank"><img src="20250101_004.jpeg" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">花火動画</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MRpaB8WY7UY?si=tJbazbLQ1S4HebzB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H-aRQynOWFs?si=PK3rH4HvT5tD_qrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ggGhr1Mz7Uc?si=EQ3VvcNHfATlK-ql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">北緯20度付近の星空です<br>日本では地平線ギリギリになってしまう「カノープス」(赤矢印)が見えています<br>全天で２番目に明るい星で中国ではこれをみると長生きできると言われる「南極老人星」</span></h2>
 <a href="20250101_001.JPG" target="_blank"><img src="20250101_001.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">お正月の日暮には細い月が見えていました</span></h2>
 <a href="20250101_002.JPG" target="_blank"><img src="20250101_002.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">宵の明星(金星)とお月様のコラボ</span></h2>
 <a href="20250101_003.JPG" target="_blank"><img src="20250101_003.JPG" alt="サンプル画像" width="900" /></a>
 
 <br><br><br>
