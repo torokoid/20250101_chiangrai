@@ -134,10 +134,10 @@ p.note { display: none; }
 
 <h2><span class="yellow">タイの年末年始は、お空が賑やかです</span></h2>
 
-<a href="20250101_001.png" target="_blank"><img src="20250101_001.png" alt="サンプル画像" width="900" /></a>
-<a href="20250101_002.png" target="_blank"><img src="20250101_002.png" alt="サンプル画像" width="900" /></a>
-<a href="20250101_003.png" target="_blank"><img src="20250101_003.png" alt="サンプル画像" width="900" /></a>
-<a href="20250101_004.png" target="_blank"><img src="20250101_004.png" alt="サンプル画像" width="900" /></a>
+<a href="20250101_001.jpeg" target="_blank"><img src="20250101_001.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="20250101_002.jpeg" target="_blank"><img src="20250101_002.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="20250101_003.jpeg" target="_blank"><img src="20250101_003.jpeg" alt="サンプル画像" width="900" /></a>
+<a href="20250101_004.jpeg" target="_blank"><img src="20250101_004.jpeg" alt="サンプル画像" width="900" /></a>
 
 <a href="20250101_001.JPG" target="_blank"><img src="20250101_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250101_002.JPG" target="_blank"><img src="20250101_002.JPG" alt="サンプル画像" width="900" /></a>
